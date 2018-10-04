@@ -1,0 +1,11 @@
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/bin/Debug/netcoreapp2.1/carSets.deps.json
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/bin/Debug/netcoreapp2.1/carSets.runtimeconfig.json
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/bin/Debug/netcoreapp2.1/carSets.runtimeconfig.dev.json
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/bin/Debug/netcoreapp2.1/carSets.dll
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/bin/Debug/netcoreapp2.1/carSets.pdb
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/obj/Debug/netcoreapp2.1/carSets.csprojAssemblyReference.cache
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/obj/Debug/netcoreapp2.1/carSets.csproj.CoreCompileInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/obj/Debug/netcoreapp2.1/carSets.AssemblyInfoInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/obj/Debug/netcoreapp2.1/carSets.AssemblyInfo.cs
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/obj/Debug/netcoreapp2.1/carSets.dll
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch6/carSets/obj/Debug/netcoreapp2.1/carSets.pdb
